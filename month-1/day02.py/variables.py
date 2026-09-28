@@ -7,7 +7,7 @@ height = 1.625
 fruit = ["banana", "strawberry", "orange"]
 is_student = True
 
-print(type(first_name))
-print(type(age))
-print(type(fruit))
-print(type(is_student))
+print(f"{first_name}", type(first_name))
+print(f"{age}", type(age))
+print(f"{fruit}", type(fruit))
+print(f"{is_student}", type(is_student))
