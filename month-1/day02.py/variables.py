@@ -17,4 +17,7 @@ person_info = {
 
 print(person_info)
 
-print
+print(type(first_name))
+print(type(age))
+print(type(fruit))
+print(type(student))
