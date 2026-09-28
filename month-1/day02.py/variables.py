@@ -10,4 +10,4 @@ is_student = True
 print(type(first_name))
 print(type(age))
 print(type(fruit))
-print(type(student))
+print(type(is_student))
