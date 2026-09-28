@@ -1,21 +1,11 @@
-#variables and data types
-#create a variable for few data type. print out the values and their data types.
-
-#variables 
+# variables and data types
+# Task: create variables storing your name, age, height(in meters),and whether you are # a student. print them along with their data type
 
 first_name = "Kami"
 age = 100
+height = 1.625
 fruit = ["banana", "strawberry", "orange"]
-student = True
-
-person_info = {
-  'Name': 'Kami',
-  'city': 'Brooklyn',
-  'age': 100,
-  'Student': True
-}
-
-print(person_info)
+is_student = True
 
 print(type(first_name))
 print(type(age))
